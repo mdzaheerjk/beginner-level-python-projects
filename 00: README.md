@@ -14,7 +14,7 @@ Strong password suggestions for enhanced security.
 Optional input validation for password criteria.
 Enhances understanding of list operations and string handling
 
-1. Hangman Game
+3: Hangman Game
 A simple word-guessing game where the player guesses letters to reveal a hidden word. Players have limited attempts before the game ends. Features include:
 Random word generation.
 ASCII art for visual progress.
