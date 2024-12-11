@@ -29,7 +29,7 @@ Handles upper and lowercase letters.
 Input validation for non-alphabetic characters.
 Excellent for learning loops, conditionals, and modular arithmetic.
 
-5. Blind Auction
+5: Blind Auction
 A program that simulates a silent auction where participants can place bids without seeing others' bids. The highest bid wins. Features:
 User input for names and bids.
 Dynamic data handling using dictionaries.
