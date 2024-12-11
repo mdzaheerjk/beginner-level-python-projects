@@ -7,7 +7,7 @@ Clear instructions and win/lose messages.
 Score tracking for multiple rounds.
 Great project for learning conditionals and randomization
 
-2. Password Generator
+2: Password Generator
 A tool that generates secure and random passwords of customizable length and complexity. Users can choose to include uppercase letters, lowercase letters, numbers, and special characters. Features:
 Random character selection using Python's random module.
 Strong password suggestions for enhanced security.
@@ -22,7 +22,7 @@ Real-time feedback on correct/incorrect guesses.
 Ideal for beginners to practice conditionals, loops, and string manipulation.
 
 
-4. Caesar Cipher
+4: Caesar Cipher
 An encryption program that shifts each letter in a message by a specified number of positions in the alphabet. This project introduces basic cryptography concepts. Features:
 Supports both encryption and decryption.
 Handles upper and lowercase letters.
