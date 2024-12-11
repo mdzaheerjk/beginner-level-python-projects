@@ -7,21 +7,19 @@ Clear instructions and win/lose messages.
 Score tracking for multiple rounds.
 Great project for learning conditionals and randomization
 
+2. Password Generator
+A tool that generates secure and random passwords of customizable length and complexity. Users can choose to include uppercase letters, lowercase letters, numbers, and special characters. Features:
+Random character selection using Python's random module.
+Strong password suggestions for enhanced security.
+Optional input validation for password criteria.
+Enhances understanding of list operations and string handling
+
 1. Hangman Game
 A simple word-guessing game where the player guesses letters to reveal a hidden word. Players have limited attempts before the game ends. Features include:
 Random word generation.
 ASCII art for visual progress.
 Real-time feedback on correct/incorrect guesses.
 Ideal for beginners to practice conditionals, loops, and string manipulation.
-
-
-2. Password Generator
-A tool that generates secure and random passwords of customizable length and complexity. Users can choose to include uppercase letters, lowercase letters, numbers, and special characters. Features:
-Random character selection using Python's random module.
-Strong password suggestions for enhanced security.
-Optional input validation for password criteria.
-Enhances understanding of list operations and string handling.
-
 
 
 4. Caesar Cipher
