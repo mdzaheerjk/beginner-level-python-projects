@@ -36,4 +36,7 @@ Dynamic data handling using dictionaries.
 Clear output showing the highest bidder and amount.
 A practical example of dictionary usage and input handling.
 These projects are excellent for beginners to solidify their Python basics, learn problem-solving, and understand fundamental programming concepts.
+Title: Simple Calculator Application
 
+6: Simple Calculator Application
+A lightweight and user-friendly calculator for performing basic arithmetic operations like addition, subtraction, multiplication, and division. Built with clean and modular code, it’s ideal for beginners and easy to customize. Supports error handling for invalid inputs and division by zero. Perfect for quick calculations or learning programming concepts. Contributions are welcome!
