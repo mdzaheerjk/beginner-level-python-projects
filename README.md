@@ -11,3 +11,13 @@ A collection of beginner-friendly Python projects designed to build foundational
 5: Blind Auction A program that simulates a silent auction where participants can place bids without seeing others' bids. The highest bid wins. Features: User input for names and bids. Dynamic data handling using dictionaries. Clear output showing the highest bidder and amount. A practical example of dictionary usage and input handling. These projects are excellent for beginners to solidify their Python basics, learn problem-solving, and understand fundamental programming concepts. Title: Simple Calculator Application
 
 6: Simple Calculator Application A lightweight and user-friendly calculator for performing basic arithmetic operations like addition, subtraction, multiplication, and division. Built with clean and modular code, it’s ideal for beginners and easy to customize. Supports error handling for
+
+
+7: Number Guessing Game": A fun and interactive game where the player tries to guess a number between 1 and 100. Features easy and hard difficulty levels with 10 or 5 attempts, respectively. Includes clear feedback like 'Too High' or 'Too Low' for each guess and supports replay functionality. Designed with modular code, making it beginner-friendly and easy to customize. Perfect for practicing Python skills like loops, conditionals, and user input handling."
+
+
+
+
+
+
+
