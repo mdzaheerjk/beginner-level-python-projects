@@ -74,7 +74,7 @@ def game_begin():
             print("\n"*100)
             game_begin()
 game_begin()
-pass
+
 
 
 
