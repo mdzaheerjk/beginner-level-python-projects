@@ -17,5 +17,5 @@ print(passoword)
 random.shuffle(passoword)
 print(passoword)
 shuffled="".join(passoword)
-print(shuffled
+print(shuffled)
 
